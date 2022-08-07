@@ -1,4 +1,4 @@
-# BookStoreAPI with GOLANG
+# BookstoreAPI with GOLANG
 
 ### API Docs
 
