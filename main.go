@@ -1,8 +1,8 @@
 package main
 
 import (
-	"livraria-golang/database"
-	"livraria-golang/server"
+	"bookstore-golang/database"
+	"bookstore-golang/server"
 )
 
 func main() {

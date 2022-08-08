@@ -1,7 +1,7 @@
 package server
 
 import (
-	"livraria-golang/server/routes"
+	"bookstore-golang/server/routes"
 	"log"
 
 	"github.com/gin-gonic/gin"

@@ -1,8 +1,8 @@
 package database
 
 import (
+	"bookstore-golang/database/migrations"
 	"fmt"
-	"livraria-golang/database/migrations"
 	"log"
 	"time"
 

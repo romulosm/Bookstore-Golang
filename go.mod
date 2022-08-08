@@ -1,4 +1,4 @@
-module livraria-golang
+module bookstore-golang
 
 go 1.19
 

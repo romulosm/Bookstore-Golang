@@ -1,8 +1,8 @@
 package controllers
 
 import (
-	"livraria-golang/database"
-	"livraria-golang/models"
+	"bookstore-golang/database"
+	"bookstore-golang/models"
 	"strconv"
 
 	"github.com/gin-gonic/gin"

@@ -1,7 +1,7 @@
 package routes
 
 import (
-	"livraria-golang/controllers"
+	"bookstore-golang/controllers"
 
 	"github.com/gin-gonic/gin"
 )

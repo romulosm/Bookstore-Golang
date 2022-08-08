@@ -1,7 +1,7 @@
 package migrations
 
 import (
-	"livraria-golang/models"
+	"bookstore-golang/models"
 
 	"gorm.io/gorm"
 )
